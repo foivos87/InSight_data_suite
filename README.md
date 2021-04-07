@@ -1,4 +1,4 @@
-# InSight_data_suite
+# InSight_portal_data_suite
 
 1. Connect to SEIS InSight Data Portal (https://science.seis-insight.eu/) with your credentials.
 
