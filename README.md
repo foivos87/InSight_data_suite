@@ -1,6 +1,6 @@
 # InSight_data_suite
 
-1. Connect to SEIS Data Portal | SEIS InSight Data Portal (https://science.seis-insight.eu/) with your credentials.
+1. Connect to SEIS InSight Data Portal (https://science.seis-insight.eu/) with your credentials.
 
 2. Download the Events Catalog with arrivals and comments from: https://science.seis-insight.eu/events/marsquakes
 
